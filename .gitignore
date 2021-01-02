@@ -2,4 +2,5 @@ config.h
 *.orig
 *.rej
 *.o
+*.so
 surf
